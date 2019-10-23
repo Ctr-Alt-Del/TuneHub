@@ -1,0 +1,122 @@
+.body{
+  padding-left: 10px;
+  padding-top: 30px;
+  margin: 3%;
+  outline: none;
+}
+
+.home {
+  text-align: center;
+  background-color: black;
+  position: fixed;
+  top: -1%;
+  color: white;
+  padding-left: 10px;
+  width: 100%;
+  z-index: 1;
+}
+
+.fav{
+  border-radius: 50%;
+  height: 60px;
+  border-style: solid;
+}
+
+.fav:hover{
+  background-color: rgb(185, 185, 185);
+}
+
+.fav:visited{
+  background-color: yellow;
+}
+
+.info{
+  align-items: baseline;
+}
+
+nav ul {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  padding-top: 12px;
+  text-decoration: none;
+}
+
+Link{
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  padding-right: 10px;
+  font-size: 25px;
+  font-style: italic;
+  text-decoration: none;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+#star{
+  color: black;
+  height: 20px;
+  font-size: 50px;
+  cursor: pointer;
+  outline: none;
+}
+
+#star:hover{
+  color: yellow;
+  text-shadow: 5px 5px 80px yellow;
+}
+
+.button{
+  background-color: rgba(255, 255, 255, 0);
+  border-style: none;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+.w3-hover-blue{
+  font-size: 17px;
+}
+
+#star:visited{
+  color: yellow;
+}
+
+#star a:visited >.fas{
+  color: yellow;
+}
+
+#bin:visited{
+  color: yellow;
+}
+
+#bin a:visited >.fas{
+  color: yellow;
+}
+
+
+#bin{
+  color: black;
+  height: 20px;
+  font-size: 50px;
+  cursor: pointer;
+  outline: none;
+}
+
+#bin:hover{
+  color: red;
+  text-shadow: 5px 5px 80px red;
+}
