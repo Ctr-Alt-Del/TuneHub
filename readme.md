@@ -1,6 +1,7 @@
 To launch app: 
 
 Npm start the backend
+
 Npm start the frontend
 
 Menu:
